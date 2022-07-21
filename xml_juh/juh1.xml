@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+ 
+ <curriculo>
+
+ <dados>
+
+  <nome> Júlia Beatriz de Almeida Carvalho </nome>
+  <datadenascimento> 01/07/2002 </datadenascimento>
+  <cidadenatal> Nova Friburgo </cidadenatal>
+  <cidadeatual> Bom Jardim </cidadenatl>
+  <pais> Brasil </pais>
+  <nomedoapai> Max Carvalho </nomedopai>
+  <nomedamae> Fernanda Carvalho <nomedamae>
+  <RG> 159.044.012-8 </RG>
+  <CPF> 122.557.363-58 <CPF>
+  <estadocivil> solteira </estadocivil>
+  </dados>
+   
+   <contabancaria>
+   <dadosdocartao>
+    
+    <nomecartao> Julia Almeida </nomecartao>
+    <numero> 1337 5852 1052 5822 </numero>
+    <validade> 07/32 <validade>
+    <cvv> 789 <cvv>
+
+
+
+   </contabancaria>
+   </dadosdocartao>
+
+   </curriulo>
+   
+
+
+
