@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+    <head>
+    <link rel="stylesheet" href="./css/estilo.css">        
+    </head>
+    <body>
+        <header>
+            <h1>
+                <nav>
+                    <ul>
+                        <li><a href="#"></a></li>
+                    </ul>
+                </nav>
+            </h1>
+        </header>
+        <main>
+            <section id="banner">
+                <h1>serviços</h1>
+                <p>Alguns sonham com o sucesso.Tornamos o sucesso realidade</p>
+            </section>
+            <section>
+                <div>
+                    <h3>serviços</h3>
+                    <p>Lorem ipsum</p>
+                        <button>Mais informações</button>
+                </div>
+            </section>
+            <section>
+                <div>
+                    <h3>Conquiste o mundo!</h3>
+                    <img src="#" alt="predio">
+                    <p>Lorem ipsum</p>
+                </div>
+            </section>
+            <div>
+                <h3>Depoimento</h3>
+                <blockquote>Lorem ipsum</blockquete>
+            </div>
+            <footer>
+                <nav>
+                    <ul>
+                        <li><a href="#"></a></li>
+                    </ul>                   
+                </nav>
+            </footer>
+        </main>
+        <footer>
+            <div>
+                &copy;Consultoria james
+                Orgulhosamente criada com CEFET-RJ 
+            </div>
+        </footer>
+    </body>
+</html>
