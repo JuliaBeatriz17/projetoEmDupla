@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+    <title>Atividade Mirror</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <img src="./img/logo.png" alt= "image error"/>
+ <br>
+<h1> MIRROR FASHION </h1>
+<p>     lorem ipsun dolor sit amet, consectetur adipiscing elit. Curabitur feugiat nisi urna, 
+    at scelerisque nils faucibus laoreet. Nam nisl aug Ut euismod ante vitae vulputate dignissim. 
+    Donec dapibus augue non nisl elementum mattis. Nunc sit amet diam egestas, convallis neque 
+    vel, Cras dapibus lectus quis erat vulputate porta. In luctus arcu at dui gravide, non est 
+    ornare.
+</p>
+<p>        
+        Donec dapibus sagittis sapien eget auctur. Aenan id augue sapien. Duis eget nulla non mi 
+    viverra elementum at elementum massa. Mauris Ut eu neque nec nunc ornare a vel elit. 
+    Duis eu dapibus Mauris. Proin laoreet congue erat at imperdiet.  
+</p>
+<figure>
+    <img src="./img/centro-distribuicao.png" alt= "iamge error"/>
+<figcaption> IMAGE COMPANY </figcaption>
+</figure>
+<P>
+        Pellentesquedictum mi risus, a condimentum nisi ultrices in. Aliquam non libero eu justo pretium
+    maximus eu in ipsum. Curabitur egest Sed lectus purus, facilisis vitae nisi accumsan lobortis mi. 
+    Fusce laoreet leo fermentun arcu interdum dictum. Quisque vel se Vivamos sit amet erat posuere, 
+    bibendum turpis at, molesti arcu. Nam nec porta elit, eu pretion odio. Interger sit amet neque eros.<br>
+        
+        Nunc vehicula lectus libero, nec facilisis lebero pretion nec. Nulla facilisi. Maecemas quis lacinia 
+    arci. Class aptent taciti sociosque Sed eget nunc diam. Interger mollis eros sed ague maximus porttitor.
+    Nam dolor ligula, fringilla a elefend id, iaculis at urna. Etiam Etiam sodales iaculis quam, sed 
+    elementum sed.<br>
+        
+        Integer pharetra lorem sem, sed vehicula justo gravida et. Fusce tempus id purus a tincidunt. Cras 
+    at tortor ex. Quisque aliquam lorem Suspendisse pretium velit at neque aliquet cindimentum. Nunc sed viverra 
+    nunc. Sed suscipit suscipit sapien, egestas sodales dui congu Proin commodo eros quis magna iaculis, vitae 
+    hendrerit mi aliquam. <br>
+</P>
+<figure>
+    <img src="./img/familia-pelho.jpg" alt= "image error"/>
+    <figcaption> Family</figcaption>
+
+    </figure>
+</body>
+
+</html>
