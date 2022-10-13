@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <link rel="stylesheet" href="juh.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="lorem1">
+        <h1 id="lorem">LoremIps</h1>
+        <h6>
+            Design by <span>templated</span>
+        </h6>
+    </div>
+    <br>
+    <br>
+    <div id="elementos">
+        <h5 id="oi">
+            <a href="#"> HOMEPAGE </a></h5>
+        <h5 id="oi"><a href="#">OUR CLIENTS</a></h5>
+        <h5 id="oi"><a href="#">ABOUT US</a></h5>
+        <h5 id="oi"><a href="#">CAREERS</a></h5>
+        <h5 id="oi"><a href="#">CONTACT US</a></h5>
+    </div>
+
+</body>
+
+</html>
