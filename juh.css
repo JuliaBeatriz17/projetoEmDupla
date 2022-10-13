@@ -1,0 +1,26 @@
+
+
+
+#lorem{
+
+   color: #fff;
+   text-align: center;
+}
+    body{
+       background-color: rgb(27,15,0);
+    }
+h6{
+color: rgb(83,83,83);
+text-align: center;
+}
+string{
+    color: #fff;
+
+}
+#elementos{
+    display: flex;
+    text-indent: 50px;
+}
+#cor{
+    background-color: #fff;
+}
