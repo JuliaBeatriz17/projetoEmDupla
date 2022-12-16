@@ -1,0 +1,106 @@
+Fauna Equador.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EQUADOR -  FAUNA</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+</head>
+<body>
+    <header>
+
+        <header>
+
+            <h1>EQUADOR</h1>
+
+        </header>
+
+        <nav>
+           
+            <ul>
+
+                <li><a href="./index.html">O PAÍS</a></li>
+
+                <li><a href="./Economia.html">ECONOMIA</a></li>
+
+                <li><a href="./Cultura.html">CULTURA</a></li>
+
+                <li><a href="./Futebol.html">FUTEBOL</a></li>
+
+                <li><a href="./Flora.html">FLORA</a></li>
+
+                <li><a href="./Curiosidades.html">CURIOSIDADES</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <main>
+        <div>
+            <h4>FAUNA NO EQUADOR</h4>
+        </div>
+        
+        <figure>
+            <img src="https://dsdsuzy1jtjfw.cloudfront.net/wp-content/uploads/2019/05/cuenca1-1024x769.jpg">
+        </figure>
+
+        <div>
+            <p>
+                A Fauna do Equador envolve o conjunto de espécies animais por todo o território 
+                equatoriano. Nas florestas tropicais existe grande variedade de macacos e animais 
+                carnívoros como o jaguar, puma, ocelote, raposa, lontra, quati, jupará. Há ainda antas, 
+                cervídeos, caititus, grande número de morcegos e roedores. A fauna ornitológica é igualmente 
+                rica, com cerca de 1.500 espécies. Os peixes e reptéis são numerosos e no litoral ocorrem duas 
+                espécies de grandes tartarugas. Há grande quantidade de insetos, com destaque para espécie de 
+                escaravelho gigante que pode atingir até 12 cm de comprimento. Nas regiões andinas existe o lhama, 
+                animal típico. Na fauna das ilhas Galápagos figuram verdadeiros fósseis vivos. No século XIX, o cientista 
+                Charles Darwin realizou ali os estudos que o conduziram a suas célebres teorias sobre a evolução das 
+                espécies. Em sua visita ao arquipélago, esse cientista britânico descobriu como surgiram os animais e as 
+                plantas, assim como os países surgiram da hegemonia política ao longo da história da humanidade.
+            </p>
+        </div>
+
+
+    </main>
+
+    <footer>
+
+
+
+        <div>
+
+            <img src="" alt="">
+
+            <h3> EQUADOR </h3>
+
+        </div>
+
+
+
+
+        <div>
+
+            <h3> REDES SOCIAIS </h3>
+
+            <ul>
+
+                <li><a href="">  <i class="bi bi-instagram"></i></a ></li>
+
+                <li><a href="">  <i class="bi bi-twitter"></i>  </a></li>
+
+                <li><a href="">  <i class="bi bi-facebook"></i> </a></li>
+
+            </ul>
+
+        </div>
+
+
+
+    </footer>
+
+</body>
+</html>
