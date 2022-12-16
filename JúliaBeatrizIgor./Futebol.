@@ -1,0 +1,252 @@
+Futebol Equador.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EQUADOR - FUTEBOL</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+</head>
+<body>
+
+     <header>
+
+        <header>
+
+            <h1>EQUADOR</h1>
+
+        </header>
+
+        <nav>
+           
+            <ul>
+
+                <li><a href="./index.html">O PAÍS</a></li>
+
+                <li><a href="./Economia.html">ECONOMIA</a></li>
+
+                <li><a href="./Cultura.html">CULTURA</a></li>
+
+                <li><a href="./Fauna.html">FAUNA</a></li>
+
+                <li><a href="./Flora.html">FLORA</a></li>
+
+                <li><a href="./Curiosidades.html">CURIOSIDADES</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <main>
+        <div>
+            <h4>FUTEBOL NO EQUADOR</h4>
+        </div>
+
+        <figure>
+            <img src="https://media.istockphoto.com/id/454996965/photo/soccer-football-ball-with-ecuador-flag.jpg?s=612x612&w=0&k=20&c=ZCsD4HiTxZcLHrA_t-y3zOjajlKlwEz-UTPJ_5H7jxU=">
+        </figure>
+
+        <section>
+            <div>
+                <p>
+                    A seleção é controlada pela Federación Ecuatoriana de Fútbol. É atualmente uma grande equipe que vem evoluindo sistematicamente 
+                    ao longo dos últimos anos, tendo disputado os Mundiais de 2002 e 2006 neste período. A melhor colocação em uma Copa América 
+                    foi um quarto lugar, em 1993, além do quarto lugar no Sul-Americano extra de 1959.
+                    Na Copa da Alemanha, o Equador chegou às oitavas de final, sendo eliminado pela Inglaterra, com gol de David Beckham.
+                    Apesar de ter se classificado para a Copa do Mundo FIFA no Catar em 2022, a seleção equatoriana corre o risco de perder 
+                    a vaga no mundial por conta de uma denúncia de falsidade ideológica envolvendo um de seus jogadores.
+
+                </p>
+                <p>
+                    O Equador disputou sua primeira Copa do Mundo em toda história na última edição do torneio, 
+                    em 2002, na Coréia do Sul e Japão. A participação foi fraca, sendo eliminada na primeira fase. 
+                    A grande estrela daquela seleção era o meia Alex Aguinaga.
+                </p>
+                <p>
+                    O Principal jogador do Equador na Copa do Mundo, capitão Enner Valencia,
+                    fez a sua estreia pela Seleção Equatoriana em 12 de fevereiro de 2012, 
+                    em um amistoso contra Honduras. Depois da passagem de Christian Benítez, 
+                    Valencia, que inicialmente começou sua carreira como ponta, 
+                    estava começando a ser usado como um centroavante pelo treinador Reinaldo Rueda, 
+                    devido à morte repentina de Benítez. Valencia marcou seu primeiro gol pelo Equador 
+                    no dia 19 de novembro de 2013, em um amistoso contra Honduras que terminou empatado em 2 a 2. 
+                    Após boas atuações, consolidou-se como motor de arranque da equipe e passou a fazer dupla 
+                    de ataque com Felipe Caicedo.
+                    Teve Na história das Copas: 3 Participações, 9 Jogos, 4 Vitórias, 5 Derrotas, 9 Gols Pró, 
+                    11 Gols Contra, -2 Gol de Saldo, 43% de Aproveitamento de Pontos.
+                </p>
+            </div>
+
+            <div>
+                <ul>
+                    <li>
+                        <a href="./ContinuacaoFutebol.html">Saiba mais sobre os jogadores da seleção do equador</a>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+
+
+
+        <div>
+
+            <img src="" alt="">
+
+            <h3> EQUADOR </h3>
+
+        </div>
+
+
+
+
+        <div>
+
+            <h3> REDES SOCIAIS </h3>
+
+            <ul>
+
+                <li><a href="">  <i class="bi bi-instagram"></i></a ></li>
+
+                <li><a href="">  <i class="bi bi-twitter"></i>  </a></li>
+
+                <li><a href="">  <i class="bi bi-facebook"></i> </a></li>
+
+            </ul>
+
+        </div>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EQUADOR - FUTEBOL</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+</head>
+<body>
+    <header>
+
+        <header>
+
+            <h1>EQUADOR</h1>
+
+        </header>
+
+        <nav>
+           
+            <ul>
+
+                <li><a href="./index.html">O PAÍS</a></li>
+
+                <li><a href="./Economia.html">ECONOMIA</a></li>
+
+                <li><a href="./Cultura.html">CULTURA</a></li>
+
+                <li><a href="./Futebol.html">FUTEBOL</a></li>
+
+                <li><a href="./Fauna.html">FAUNA</a></li>
+
+                <li><a href="./Flora.html">FLORA</a></li>
+
+                <li><a href="./Curiosidades.html">CURIOSIDADES</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <main>
+        <div>
+            <h4>MAIS SOBRE O FUTEBOL NO EQUADOR</h4>
+        </div>
+
+        <section>
+            <div>
+                <h4>GOLEIROS</h4>
+                <p>
+                    Alexander Domínguez é o goleiro mais experiente da lista, 
+                    mas Hernán Galindez é quem tem sido escolhido para o time titular.
+                </p>
+            </div>
+
+            <div>
+                <h4>DEFENSORES</h4>
+                <p>
+                    Na defesa equatoriana, Piero Hincapie é um dos grandes destaques. 
+                    O jovem vem mostrando muita qualidade na lateral-esquerda. Arboleda e Felix Torres, 
+                    que vem de lesões, também estão convocados.
+                </p>
+            </div>
+
+            <div>
+                <h4>MEIO-CAMPISTAS</h4>
+                <p>
+                    Dentre os meio-campistas equatorianos, o jovem Moises Caicedo, do Brighton, 
+                    é um dos maiores destaques. Alan Franco é outra boa opção do time.
+                </p>
+            </div>
+
+            <div>
+                <h4>ATACANTES</h4>
+                <p>
+                    Ex-West Ham e Everton, o atacante Enner Valencia segue, aos 32 anos, 
+                    como a grande referência da seleção equatoriana, além de ser o maior 
+                    artilheiro da história do selecionado, com 35 gols. Do outro lado, Michael 
+                    Estrada foi o artilheiro do Equador nas Eliminatórias.
+                </p>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+
+
+
+        <div>
+
+            <img src="" alt="">
+
+            <h3> EQUADOR </h3>
+
+        </div>
+
+
+
+
+        <div>
+
+            <h3> REDES SOCIAIS </h3>
+
+            <ul>
+
+                <li><a href="">  <i class="bi bi-instagram"></i></a ></li>
+
+                <li><a href="">  <i class="bi bi-twitter"></i>  </a></li>
+
+                <li><a href="">  <i class="bi bi-facebook"></i> </a></li>
+
+            </ul>
+
+        </div>
+
+
+
+    </footer>
+</body>
+</html>
+    </footer>
+
+</body>
+</html>
