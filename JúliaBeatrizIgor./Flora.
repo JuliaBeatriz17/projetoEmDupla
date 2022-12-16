@@ -1,0 +1,124 @@
+Flora Equador.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EQUADOR - FLORA</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+</head>
+<body>
+    <header>
+
+        <header>
+
+            <h1>EQUADOR</h1>
+
+        </header>
+
+        <nav>
+           
+            <ul>
+
+                <li><a href="./index.html">O PAÍS</a></li>
+
+                <li><a href="./Economia.html">ECONOMIA</a></li>
+
+                <li><a href="./Cultura.html">CULTURA</a></li>
+
+                <li><a href="./Futebol.html">FUTEBOL</a></li>
+
+                <li><a href="./Fauna.html">FAUNA</a></li>
+
+                <li><a href="./Curiosidades.html">CURIOSIDADES</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <main>
+
+        <div>
+            <h4>FLORA NO EQUADOR</h4>
+        </div>
+
+        <figure>
+            <img src="https://s2.static.brasilescola.uol.com.br/be/2022/10/monte-chimborazo.jpg">
+        </figure>
+
+        <div>
+            <p>
+                A extensão territorial do Equador é de 256.370 km². Este país está situado sobre a 
+                linha do equador (de onde foi tirado seu nome), possui algumas ilhas situadas ao lado
+                do continente e, a 1000 km do seu litoral, o arquipélago das Ilhas Galápagos. Juntamente 
+                com o Chile são os únicos países que não fazem fronteira com o Brasil. Limita, ao sul e a 
+                leste, com o Peru, ao norte com a Colômbia e a oeste com o oceano Pacífico.
+                Dada à abundância de chuvas, o Equador dispõe de uma rica rede hidrográfica, menos nas zonas 
+                ocidentais e meridionais áridas da costa. Os rios, em sua maioria, se originam na Cordilheira 
+                dos Andes e correm, para o leste, em direção à planície amazônica ou para o oceano Pacífico, 
+                nesta região podemos destacar os seguintes rios: Mataje, Santiago, Esmeraldas, Chone, Guayas, 
+                Jubones e Puyango-Tumbes.
+            </p>
+
+            <p>
+                A latitude, a maritimidade e o relevo são os principais fatores climáticos que influenciam 
+                o clima do Equador. Com exceção da região montanhosa, o clima do país é o equatorial e seus 
+                subclimas, sendo marcado por temperaturas elevadas durante todo o ano.
+                No leste, onde fica a Bacia do Amazonas, as chuvas são abundantes e bem distribuídas durante o ano. 
+                Já no litoral há uma distinção entre a estação chuvosa, no primeiro semestre do ano, e a estação seca, 
+                nos demais meses. Nas montanhas, as temperaturas são muito baixas e há a maior possibilidade de formação
+                de geada. A neve permanente acontece em áreas com altitude superior a 5000 metros.
+            </p>
+
+            <p>
+                As florestas recobrem o leste e o oeste do Equador. Na região conhecida como Oriente, 
+                predomina a floresta equatorial sempre-verde, mais precisamente a Floresta Amazônica, 
+                que tem 1,6% de sua área total no Equador. No litoral está presente a floresta decídua 
+                e semidecídua, enquanto nos terrenos elevados uma parte das florestas e da vegetação 
+                alpina foi substituída por cultivos agrícolas.
+            </p>
+        </div>
+
+
+    </main>
+
+    <footer>
+
+
+
+        <div>
+
+            <img src="" alt="">
+
+            <h3> EQUADOR </h3>
+
+        </div>
+
+
+
+
+        <div>
+
+            <h3> REDES SOCIAIS </h3>
+
+            <ul>
+
+                <li><a href="">  <i class="bi bi-instagram"></i></a ></li>
+
+                <li><a href="">  <i class="bi bi-twitter"></i>  </a></li>
+
+                <li><a href="">  <i class="bi bi-facebook"></i> </a></li>
+
+            </ul>
+
+        </div>
+
+
+
+    </footer>
+
+</body>
+</html>
