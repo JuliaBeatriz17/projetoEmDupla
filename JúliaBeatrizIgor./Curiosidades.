@@ -1,0 +1,100 @@
+Curiosidades Equador.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EQUADOR - CURIOSIDADES</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+</head>
+<body>
+    <header>
+
+        <header>
+
+            <h1>EQUADOR</h1>
+
+        </header>
+
+        <nav>
+           
+            <ul>
+
+                <li><a href="./index.html">O PAÍS</a></li>
+
+                <li><a href="./Economia.html">ECONOMIA</a></li>
+
+                <li><a href="./Cultura.html">CULTURA</a></li>
+
+                <li><a href="./Futebol.html">FUTEBOL</a></li>
+
+                <li><a href="./Fauna.html">FAUNA</a></li>
+
+                <li><a href="./Flora.html">FLORA</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <main>
+        <div>
+            <h4>CURIOSIDADES DO EQUADOR</h4>
+        </div>
+        <div>
+            <p>
+                Uma das características centrais dos equatorianos é a preservação dos costumes dos seus ancestrais, 
+                particularmente os indígenas e os serranos, muitos se comunicam em quéchua. Por terem grande amor pela 
+                terra, têm o hábito de fazer constantes oferendas para homenageá-la. Quando estão na fase de início do 
+                plantio oferecem para a Mãe Terra, Pacha Mama, pisco, cerveja ou uma folha de coca. Antes de beber 
+                qualquer coisa, jogam um pouco na terra para agradecê-la por poderem matar sua sede.
+                Quéchuas de diferentes regiões se vestem de maneira diferenciada assim como podem apresentar 
+                variações da língua entre si. Grande parte dos quéchuas vivem nas terras altas sendo que a maior 
+                população desse grupo étnico está concentrada em Chimborazo. Há pequenos grupos em áreas de terras 
+                baixas amazônicas vivendo em conjunto com outras etnias. É possível observar a preservação da cultura 
+                inca inclusive por meio de pratos como o cuy que é um coelho assado na lenha muito tradicional desse povo, 
+                esse era o prato preparado em celebrações importantes.
+            </p>
+        </div>
+
+    </main>
+
+    <footer>
+
+
+
+        <div>
+
+            <img src="" alt="">
+
+            <h3> EQUADOR </h3>
+
+        </div>
+
+
+
+
+        <div>
+
+            <h3> REDES SOCIAIS </h3>
+
+            <ul>
+
+                <li><a href="">  <i class="bi bi-instagram"></i></a ></li>
+
+                <li><a href="">  <i class="bi bi-twitter"></i>  </a></li>
+
+                <li><a href="">  <i class="bi bi-facebook"></i> </a></li>
+
+            </ul>
+
+        </div>
+
+
+
+    </footer>
+
+</body>
+</html>
