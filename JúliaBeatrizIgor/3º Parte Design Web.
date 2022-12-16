@@ -1,0 +1,157 @@
+# juhlove16.github.io
+               index(juliaigor).
+               
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>EQUADOR - INÍCIO</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+</head>
+
+<body>
+
+
+
+    <header>
+
+        <header>
+
+            <h1>EQUADOR</h1>
+
+        </header>
+
+        <nav>
+
+            <ul>
+
+                <li><a href="./Economia.html">ECONOMIA</a></li>
+
+                <li><a href="./Cultura.html">CULTURA</a></li>
+
+                <li><a href="./Futebol.html">FUTEBOL</a></li>
+
+                <li><a href="./Fauna.html">FAUNA</a></li>
+
+                <li><a href="./Flora.html">FLORA</a></li>
+
+                <li><a href="./Curiosidades.html">CURIOSIDADES</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    
+
+    <main>
+
+
+
+        <div>   
+
+            <h4>CONHECENDO O EQUADOR</h4>   
+
+        </div>
+
+
+
+        <figure>
+
+            <img src="https://s2.static.brasilescola.uol.com.br/be/2022/11/bandeira-do-equador-hasteada.jpg" alt="">
+
+        </figure>
+
+
+
+        <div>
+
+            <p>
+
+                O Equador é um país que não é muito visado por turistas brasileiros,
+
+                dividido pela linha do equador e situado na costa oeste da América do Sul. As diversas paisagens 
+
+                do Equador são de tirar o fôlego. A floresta amazônica, as montanhas 
+
+                andinas e as Ilhas Galápagos, ricas em vida selvagem, são algumas das grandes provas disso. 
+
+                Localizada nos contrafortes andinos e com uma elevação 
+
+                de 2.850 m, Quito, a capital, é conhecida por seu centro
+
+                colonial espanhol quase intacto, com palácios e locais 
+
+                religiosos dos séculos XVI e XVII, como a ornamentada 
+
+                igreja Compañia de Jesús.
+
+                Há outros ricos aspectos do Equador, por exemplo: ele possui uma grande riqueza mineral, com destaque para o ouro, prata, 
+
+                chumbo e zinco.
+
+                O setor industrial atua nos segmentos têxteis, produtos eletroeletrônicos, alimentício, madeireiro, papel e petroquímico.
+
+                A agricultura, por sua vez, 
+
+                baseia-se no cultivo de café, cacau, milho, batata e, principalmente, banana. 
+
+            </p>
+
+        </div>
+
+    </main>
+
+
+
+    <footer>
+
+
+
+        <div>
+
+            <img src="" alt="">
+
+            <h3> EQUADOR </h3>
+
+        </div>
+
+
+
+
+        <div>
+
+            <h3> REDES SOCIAIS </h3>
+
+            <ul>
+
+                <li><a href="">  <i class="bi bi-instagram"></i></a ></li>
+
+                <li><a href="">  <i class="bi bi-twitter"></i>  </a></li>
+
+                <li><a href="">  <i class="bi bi-facebook"></i> </a></li>
+
+            </ul>
+
+        </div>
+
+
+
+    </footer>
+
+
+
+
+
+</body>
+
+</html>
