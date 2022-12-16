@@ -1,0 +1,135 @@
+Economia Equador.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EQUADOR - ECONOMIA</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+</head>
+<body>
+
+    <header>
+
+        <header>
+
+            <h1>EQUADOR</h1>
+
+        </header>
+
+        <nav>
+
+            <ul>
+
+                <li><a href="./index.html">O PAÍS</a></li>
+
+                <li><a href="./Cultura.html">CULTURA</a></li>
+
+                <li><a href="./Futebol.html">FUTEBOL</a></li>
+
+                <li><a href="./Fauna.html">FAUNA</a></li>
+
+                <li><a href="./Flora.html">FLORA</a></li>
+
+                <li><a href="./Curiosidades.html">CURIOSIDADES</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+    
+    <main>
+        <div>
+            <h4>ECONOMIA NO EQUADOR</h4>
+        </div>
+
+        <figure>
+            <img src="https://img.olhardigital.com.br/wp-content/uploads/2022/04/Petroleo-Equador.jpg">
+        </figure>
+
+            <div>
+                <p>
+                        Classificado como um país em desenvolvimento, o Equador apresenta um PIB de 
+                    115,47 bilhões de dólares, dos quais 60,4% têm origem no setor terciário. A 
+                    indústria e a agricultura representam, respectivamente, 32,9% e 6,7% da economia 
+                    equatoriana.
+                </p>
+
+                <p>
+                        A economia equatoriana é a 8ª maior dentre os países da América Latina e do Caribe. 
+                    Rico em petróleo, o país foi membro da Opep entre 1973 e 2020, 
+                    tendo interrompido a sua afiliação entre 1992 e 2007 e saído 
+                    definitivamente do grupo em janeiro de 2020. Ainda assim, o 
+                    Equador se mantém como um grande exportador petrolífero, atividade
+                    essa que constitui uma das bases da economia do país. A grande
+                    fertilidade dos solos e as reservas minerais são de igual 
+                    importância para as receitas internas.
+                </p>
+
+                <p>
+                        Sua indústria, por sua vez, ainda é bastante dependente 
+                    do extrativismo mineral e da agropecuária, em que se destaca 
+                    na produção de itens como cana-de-açúcar, bananas, cacau, café e milho.
+                </p>
+
+                <p>
+                    O Equador, um dos países mais atingidos pela pandemia na América Latina, 
+                    registrou aumento no índice anual de pobreza. A taxa de pobreza cresceu de 25% 
+                    em dezembro de 2019 para 32,4% no mesmo mês de 2020 e a taxa de pobreza extrema, 
+                    de 8,9% para 14,9%. Nas áreas rurais do país, de 17,4 milhões de habitantes, 
+                    a pobreza extrema passou de 18,7% para 27,5%.
+                </p>
+
+                <p>
+                    O desemprego subiu de 3,8% em dezembro de 2019 para 5% no mesmo mês de 2020, e o 
+                    subemprego, de 17,8% para 22,7%, segundo o Inec. Em junho de 2020, o desemprego aumentou 
+                    para 13,3% devido às restrições e confinamentos impostos em combate à pandemia, que já causou 
+                    286.725 infecções e 15.850 mortes no país. A taxa de desemprego das mulheres 
+                    era maior que a dos homens. Entre as mulheres da população economicamente 
+                    ativa, 6,7% estavam desempregadas, enquanto entre os homens o percentual era de 3,7%.
+                    No Equador, 71% da população está em idade produtiva. Desses, 64% são economicamente ativos.
+                </p>
+            </div>
+
+    </main>
+
+    <footer>
+
+
+
+        <div>
+
+            <img src="" alt="">
+
+            <h3> EQUADOR </h3>
+
+        </div>
+
+
+
+
+        <div>
+
+            <h3> REDES SOCIAIS </h3>
+
+            <ul>
+
+                <li><a href="">  <i class="bi bi-instagram"></i></a ></li>
+
+                <li><a href="">  <i class="bi bi-twitter"></i>  </a></li>
+
+                <li><a href="">  <i class="bi bi-facebook"></i> </a></li>
+
+            </ul>
+
+        </div>
+
+
+
+    </footer>
+
+</body>
+</html>
