@@ -1,0 +1,81 @@
+* {
+    margin: 1;
+    padding: 1;
+}
+
+body {
+    color: #000;
+    background-color: #b140ac;
+}
+
+header {
+    color: white;
+    margin: 2rem 5rem 5rem 5rem;
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    margin-bottom: 2.0rem;
+    display: inline-block;
+}
+
+p {
+    margin-bottom: 2rem;
+}
+
+.nomeClassificacao {
+    margin-bottom: 0.2rem;
+    margin-top: 1rem;
+    font-size: 18px;
+}
+.filme {
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: white;
+    display: flex;
+    border-radius: 1rem;
+    width: 900px;
+}
+
+.tituloFilme {
+    display: flex;
+    justify-content: space-between;
+}
+.imgFilme {
+    width: 350px;
+    height: auto;
+    margin: 0 1rem 0 0;
+    border-radius: 1rem;
+    flex-shrink: 0;
+}
+
+.list {
+    list-style: none;
+    text-align: justify;
+    display: inline;
+    color: #000;
+}
+
+.listaRating {
+    list-style: none;
+}
+.yellow {
+    color: rgb(234, 21, 21);
+}
+
+.green {
+    color: rgb(58, 58, 201);
+}
+
+.red {
+    color: rgb(2, 1, 10);
+}
+
+.indica {
+    line-height: 100%;
+    padding: 0.5rem;
+    border: 2px solid;
+    border-radius: 5px;
+    text-align: center;
+}
